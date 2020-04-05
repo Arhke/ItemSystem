@@ -1,0 +1,166 @@
+Id: Steel
+Type: Smeltery
+Name: "&aSteel"
+Material: IRON_INGOT
+Lore:
+  - 'asdf'
+Helmet:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Chestplate:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Leggings:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Boots:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Shield:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Sword:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Axe:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Pickaxe:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Shovel:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20
+Hoe:
+  Damage: 1
+  AttackSpeed: 4.0
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 0.01
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 100
+  CriticalDmg: 20

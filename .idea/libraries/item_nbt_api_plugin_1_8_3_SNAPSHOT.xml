@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="item-nbt-api-plugin-1.8.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../item-nbt-api-plugin-1.8.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

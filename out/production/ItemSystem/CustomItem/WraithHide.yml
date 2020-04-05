@@ -1,0 +1,66 @@
+Id: WraithHide
+Type: Tannery
+Name: "&aWraithHide"
+Material: LEATHER
+Lore:
+  - 'asdf'
+Helmet:
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 10.0
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 15
+  CriticalDmg: 20
+  Color: BLACK
+Chestplate:
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 10.0
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 15
+  CriticalDmg: 20
+  Color: BLACK
+Leggings:
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 10.0
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 15
+  CriticalDmg: 20
+  Color: BLACK
+Boots:
+  MaxHealth: 20
+  DurabilityMultiplier: 3
+  Armor: 5
+  ArmorToughness: 5
+  KnockbackResist: 0.0
+  MovementSpeed: 10.0
+  MagicResist: -1
+  Luck: 3
+  Dodge: 50
+  Deflect: 5
+  RangedDamage: 5
+  CriticalChance: 15
+  CriticalDmg: 20
+  Color: BLACK

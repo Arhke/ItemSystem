@@ -1,0 +1,19 @@
+Id: Steel
+Furniture: SMELTERY
+Time: 0
+TimeRange: 30
+Chance: 50
+
+Output:
+  Item1:
+    Id: "Steel"
+    Amount: 1
+    Chance: 2
+  Item2:
+    Id: "LEATHER:&aWraithHide"
+    Amount: 2
+    Chance: 2
+Input:
+  Item1:
+    Id: "IRON_INGOT:"
+    Amount: 1

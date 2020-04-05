@@ -1,0 +1,7 @@
+name: ItemSystem
+main: net.waterraid.ItemSystem.Main
+version: 0.0
+commands:
+  ItemSystem:
+    description: Your description
+    usage: /<command> Help

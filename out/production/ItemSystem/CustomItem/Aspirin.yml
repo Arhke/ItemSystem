@@ -1,0 +1,14 @@
+Id: Aspirin
+Type: Brewery
+Name: "&aAspirin"
+Material: POTION
+Lore:
+  - 'asdf'
+effects:
+  first:
+    PotionEffectType: STRENGTH
+    Duration: 1
+    Amplifier: 1
+    Ambient: true
+    Particles: true
+    Color: RED
